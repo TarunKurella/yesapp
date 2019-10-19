@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:47:34 +0530] "GET /yesapp HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:47:39 +0530] "GET /yesapp/ HTTP/1.1" 200 109 http-bio-9090-exec-3 4003
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:47:46 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:48:07 +0530] "GET /yesapp HTTP/1.1" 302 - http-bio-9090-exec-6 0
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:48:07 +0530] "GET /yesapp/ HTTP/1.1" 200 109 http-bio-9090-exec-7 5
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:48:08 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-9 0
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:48:16 +0530] "GET /yesapp/servlet HTTP/1.1" 200 330 http-bio-9090-exec-8 3128
+0:0:0:0:0:0:0:1 - - [17/Jul/2019:17:48:19 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-10 0
